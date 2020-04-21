@@ -1,0 +1,37 @@
+﻿-------------------------------------------------------------------------------------------------------
+HAMBURGER generator
+-------------------------------------------------------------------------------------------------------
+
+BREAD + shape square/circle
+
+SALAD
+
+TOMATOE
+
+PICKLE
+
+CHEESE
+
+FISH
+
+BEEF
+
+CHICKEN
+
+BACON
+
+ONION
+
+SAUCE (color)
+
+EGG
+
+sausage
+
+olives
+
+
+INGREDIENT RIGOLO
+
+...
+
